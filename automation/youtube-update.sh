@@ -51,10 +51,13 @@ while read -r line; do
                 read -r latest_video_img
             } < <(IFS=','; jq -r "${jq_fields[*]}" < ${temp_output_file})
 
+            # Sanitise output
             video_count=$(numfmt --to=si "${video_count}" | tr G B)
-            playlist_title=$(echo ${playlist_title} | tr '|' '&#124;')
+            first_video_title=$(echo ${first_video_title} | tr '|' '&#124;')
+            latest_video_title=$(echo ${latest_video_title} | tr '|' '&#124;')
+
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
-            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title}\n![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title}\n![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) |\n"
+            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
             exit 1
