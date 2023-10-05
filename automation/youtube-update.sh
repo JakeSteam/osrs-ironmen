@@ -14,39 +14,47 @@ while read -r line; do
     if [[ ${line} == ${header_prefix}* ]]; then
         echo "Adding header ${line}"
         output="${output}\n${line}\n\n"
-        output="${output}| Playlist ↕ | Creator ↕ | # Videos ↕ | First video | Latest video |\n| --- | --- | --- | --- | --- |\n"
+        output="${output}| Ironman ↕ | Creator ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
-        curl "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails,snippet&maxResults=50&playlistId=${playlist_id}&key=${API_KEY}" \
+        curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=${playlist_id}&key=${API_KEY}" \
             --header 'Accept: application/json' \
             -fsSL -o ${temp_output_file}
 
         # Pull playlist data out of response if possible
         if [[ $(jq -r '.pageInfo.totalResults' output.json) > 0 ]]; then
             jq_fields=(
+                '.pageInfo.totalResults'
                 '.items[0].snippet.videoOwnerChannelId'
                 '.items[0].snippet.videoOwnerChannelTitle'
-                '.pageInfo.totalResults'
-                '.items[0].contentDetails.videoId'
-                '.items[0].contentDetails.videoPublishedAt'
-                '.items[-1].contentDetails.videoId'
-                '.items[-1].contentDetails.videoPublishedAt'
+                '.items[0].snippet.resourceId.videoId'
+                '.items[0].snippet.title'
+                '.items[0].snippet.publishedAt'
+                '.items[0].snippet.thumbnails.medium.url'
+                '.items[-1].snippet.resourceId.videoId'
+                '.items[-1].snippet.title'
+                '.items[-1].snippet.publishedAt'
+                '.items[-1].snippet.thumbnails.medium.url'
             )
             {
+                read -r video_count
                 read -r channel_id
                 read -r channel_title
-                read -r video_count
                 read -r first_video_id
+                read -r first_video_title
                 read -r first_video_date
+                read -r first_video_img
                 read -r latest_video_id
+                read -r latest_video_title
                 read -r latest_video_date
+                read -r latest_video_img
             } < <(IFS=','; jq -r "${jq_fields[*]}" < ${temp_output_file})
 
             video_count=$(numfmt --to=si "${video_count}" | tr G B)
             playlist_title=$(echo ${playlist_title} | tr '|' '&#124;')
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
-            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) | [${channel_title}](https://www.youtube.com/${channel_id}) | ${video_count} | [${first_video_date:0:10}](https://youtube.com/?v=${first_video_id}) | [${latest_video_date:0:10}](https://youtube.com/?v=${latest_video_id}) |\n"
+            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title}\n![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title}\n![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
             exit 1
