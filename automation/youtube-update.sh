@@ -23,7 +23,7 @@ while read -r line; do
             -fsSL -o ${temp_output_file}
 
         # Pull playlist data out of response if possible
-        if [[ $(jq -r '.pageInfo.totalResults' output.json) == 1 ]]; then
+        if [[ $(jq -r '.pageInfo.totalResults' output.json) > 0 ]]; then
             jq_fields=(
                 '.items[0].snippet.title'
                 '.items[0].snippet.videoOwnerChannelId'
