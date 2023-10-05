@@ -40,6 +40,7 @@ while read -r line; do
             } < <(IFS=','; jq -r "${jq_fields[*]}" < ${temp_output_file})
 
             video_count=$(numfmt --to=si "${video_count}" | tr G B)
+            playlist_title=$(echo ${playlist_title} | tr '|' '¦')
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
             output="${output}| ${emoji}[${playlist_title}](https://www.youtube.com/playlist?list=${playlist_id}) | [${channel_title}](https://www.youtube.com/${channel_id}) | ${video_count} | ${first_video} |\n"
         else
