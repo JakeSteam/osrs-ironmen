@@ -19,6 +19,7 @@ PLkOM4mGZ1gAIaYTMlZ5BHKvLs0JVAVqFq;Combat Achievement Locked
 PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
 PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collector's Log Locked
 PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI;Boss Only
+PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
 ### Item-based restrictions
 PLWiMc19-qaA1IyxRG7VCIjm86JIvTo8BI;1-inventory Slot Only
 PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
