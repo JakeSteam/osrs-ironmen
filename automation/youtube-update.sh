@@ -7,7 +7,7 @@ output_file="${WORKSPACE}/README.md"
 header_prefix="### "
 placeholder_text="dynamic-playlist-data"
 temp_output_file="output.json"
-max_results=20
+max_results=50
 output=""
 
 # Convert list of playlists into Markdown tables
@@ -15,7 +15,7 @@ while read -r line; do
     if [[ ${line} == ${header_prefix}* ]]; then
         echo "Adding header ${line}"
         output="${output}\n${line}\n\n"
-        output="${output}| Ironman series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
+        output="${output}| Ironman series ↕ | Creator / Name ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
@@ -65,7 +65,7 @@ while read -r line; do
             fi
 
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
-            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) ${latest_video_disclaimer} |\n"
+            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ${latest_video_disclaimer} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
             exit 1

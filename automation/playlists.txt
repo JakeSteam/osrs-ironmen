@@ -1,5 +1,51 @@
-### Ongoing series
+### Location-based restrictions
 PLWiMc19-qaA3uAQXQUcn8c1VR5ZwqVOXl;Tileman
-### Finished series
+PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regioneer
+PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Gridlocked
+PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;Morytania Only
+PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
+PLBdzwavY8Dp50G1Bbp9VJaFrrCroytdXX;Wildy Only
+PLiqzI21bjRf9JZjxkmxTa8rU9PSygrusK;Wildy Only
+PLkOM4mGZ1gALGLuYOLfUdEhSu5MRWqVk0;F2P Wildy Only UIM
+PLytFDPzcFY-6NGS0H8D0rNbAFPkLzt0af;Desert Only
+PLzU806ZJA6tE3KT3jazRZauc1gj5YFnPe;Desert Only
+PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
+PLhsEAJsiNQ3aeqfnRLCyR3ZaaAtimaPxc;Lumby Chicken Farm Only
+PLhsEAJsiNQ3YMprz-CHZ_MCMxedsdANc2;Lumby / Draynor Only
+PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
+### Item-based restrictions
+PLWiMc19-qaA1IyxRG7VCIjm86JIvTo8BI;1-inventory Slot
+PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
+### Built-in restrictions
 PLWiMc19-qaA0kaesfjtYVWHcrYV5Xg8sE;Hoarders
-PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;Swampletics
+PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut;F2P UIM
+### World-based restrictions
+PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;PVP Worlds Only
+PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL;PVP Worlds Only 
+PLY-yfrsQ8zmhx6wV-gUxw48ltkVI1vnBl;PVP Worlds Only
+PLXs64j-sWfOQudBtJWFQWmraXf8tPaJrc;PVP Worlds Only
+PLWKajLrInjkDcX3ghbvVL8RVJYVTdWaZP;PVP Worlds Only
+PLVhozQRgaLBXDQyN_4Lljo3AbXyQ-LYAV;PVP Worlds Only
+### Other restrictions
+PLFYF7kWsCSYaGc76mUU0S16sWKg2JbC87;Vision Restricted 
+PLGCe4YMe1XHLVoM88kNcNKeqDy1itjCKQ;No XP / GP Trading
+PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
+PLGCe4YMe1XHLmfVCipeEc1xvdT2DXMico;Bug-abusing HCIM(?)
+### Skill-based restrictions
+PLpiYUqDQMBCCmxjAVKB2VfsTFkX3UZTiS;Magic Only
+PLBNesWpqPkIPJJqOwAOw_Kv4SkSMwi8kX;Melee Only
+PLGSwvp5U0qZSSEX8KwPgXPKi8Iq5Nc0fH;99 One At A Time
+PLjvxlnXBpOgkYa5OtXW-mzhpDqVpe71BF;Level 3 UIM
+PLfaYojI_alosjctvmk9DQnPIfan02_Bpn;Level 3 HCIM
+PLpiYUqDQMBCAZTrLcGFfmXKsMMZJzuizk;1 Defence HCIM
+PLNB2JOrvYWGlBvlTKxQrdxwOFC0dXHfKr;1 Defence HC UIM
+PLmw72TQLrjFWDviFVgLs84ILDE1SBgzUr;Glass Cannon
+PLmw72TQLrjFUvlH8oya8q3wu2Zl2yHn7U;Glass Cannon
+PLHoC6h2fU6S0SGeg8-q1F8mRDzC5nlEIb;Slayer Only
+PLeHECNrihAzTOE6tt9CpuDwHL7locIRmd;Pure Ironman
+PLFcTN8HmSeipIHRfLqBHr4gnClKKLkemT;10HP Ironman
+PLFcTN8HmSeiq5y-UtQFRnDotQaYfbMjIN;10HP Ironman
+PLmw72TQLrjFV83QvWi3RhbL0OAxbQWmLz;10HP Ironman (S1)
+PLmw72TQLrjFVdHk0Uehtb0XvCej6sYLPI;10HP Ironman (S2)
+PLZTTBJe29ue1mFyROm2UK9KGg4Z-Eh3Xl;10HP UIM
+PLSPPsmv_FXzBpi_lF8sIotgx6ClTUM31V;3 Combat Fire Cape
