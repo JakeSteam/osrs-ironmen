@@ -32,11 +32,11 @@ while read -r line; do
                 '.items[0].snippet.resourceId.videoId'
                 '.items[0].snippet.title'
                 '.items[0].snippet.publishedAt'
-                '.items[0].snippet.thumbnails.high.url'
+                '.items[0].snippet.thumbnails.medium.url'
                 '.items[-1].snippet.resourceId.videoId'
                 '.items[-1].snippet.title'
                 '.items[-1].snippet.publishedAt'
-                '.items[-1].snippet.thumbnails.high.url'
+                '.items[-1].snippet.thumbnails.medium.url'
             )
             {
                 read -r video_count
@@ -61,7 +61,7 @@ while read -r line; do
             latest_video_disclaimer=''
             if [[ ${video_count} -gt ${max_results} ]]; then
                 missed_videos=$((${video_count} - ${max_results}))
-                latest_video_disclaimer="(${missed_videos} later videos missed[^max-videos])"
+                latest_video_disclaimer="*${missed_videos} later videos omitted[^max-videos]*"
             fi
 
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
