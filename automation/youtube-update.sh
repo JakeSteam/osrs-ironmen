@@ -15,7 +15,7 @@ while read -r line; do
     if [[ ${line} == ${header_prefix}* ]]; then
         echo "Adding header ${line}"
         output="${output}\n${line}\n\n"
-        output="${output}| Ironman series<br>↕ | Creator / Name<br>↕ | First video<br>↕ | Latest video<br>↕ |\n| --- | --- | --- | --- |\n"
+        output="${output}| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
@@ -65,7 +65,7 @@ while read -r line; do
             fi
 
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
-            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) ${latest_video_disclaimer} |\n"
+            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title}<br>![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title}<br>![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id})<br>${latest_video_disclaimer} |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
             exit 1
