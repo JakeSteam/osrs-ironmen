@@ -15,7 +15,7 @@ while read -r line; do
     if [[ ${line} == ${header_prefix}* ]]; then
         echo "Adding header ${line}"
         output="${output}\n${line}\n\n"
-        output="${output}| Ironman series ↕ | Creator / Name ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
+        output="${output}| Ironman series<br>↕ | Creator / Name<br>↕ | First video<br>↕ | Latest video<br>↕ |\n| --- | --- | --- | --- |\n"
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
@@ -61,11 +61,11 @@ while read -r line; do
             latest_video_disclaimer=''
             if [[ ${video_count} -gt ${max_results} ]]; then
                 missed_videos=$((${video_count} - ${max_results}))
-                latest_video_disclaimer="*${missed_videos} later videos omitted[^max-videos]*"
+                latest_video_disclaimer="*Note: ${missed_videos} later video(s) omitted[^max-videos]*"
             fi
 
             echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
-            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id}) (${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ${latest_video_disclaimer} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) |\n"
+            output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id})\n(${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title} ![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title} ![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) ${latest_video_disclaimer} |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
             exit 1
