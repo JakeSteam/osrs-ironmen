@@ -18,7 +18,7 @@ while read -r line; do
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
-        curl "https://youtube.googleapis.com/youtube/v3/playlists?part=statistics,snippet&id=${playlist_id}&key=${API_KEY}" \
+        curl "https://www.googleapis.com/youtube/v3/playlists?part=contentDetails,snippet&id=${playlist_id}&key=${API_KEY}" \
             --header 'Accept: application/json' \
             -fsSL -o ${temp_output_file}
 
