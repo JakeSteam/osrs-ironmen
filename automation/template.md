@@ -1,6 +1,15 @@
-There are too many goddamn snowflake accounts, here's a list of all with YouTube series.
+There are too many goddamn snowflake accounts, here's a list of all that have YouTube series. At least, those with more than 2 progress videos!
 
 This list updates once a day, feel free to [add any missing playlists](#add-a-playlist). Tap a column's header to sort by that field.
+
+Jump to:
+* [Misc restrictions](#misc-restrictions)
+* [Item-based restrictions](#item-based-restrictions)
+* [Skill-based restrictions](#skill-based-restrictions)
+* [Location-based restrictions](#location-based-restrictions)
+* [World-based restrictions](#world-based-restrictions)
+
+## Ironmen
 
 dynamic-playlist-data
 
