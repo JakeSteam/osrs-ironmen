@@ -36,6 +36,7 @@ Jump to:
 | [Task Locked](https://www.youtube.com/playlist?list=PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i) (8 videos) | [IcyRS](https://www.youtube.com/channel/UCY_aN6LnJHqxKo4sGHNEQeA) | [2020-08-25: TaskUnlocked: A Random and Restricted Iron Man Experience<br>![](https://i.ytimg.com/vi/zwxp214Qmcg/mqdefault.jpg)](https://youtube.com/watch?v=zwxp214Qmcg) | [2020-09-23: A Life-Saving Addition - TaskUnlocked Episode 7<br>![](https://i.ytimg.com/vi/xAFWCA-Mj28/mqdefault.jpg)](https://youtube.com/watch?v=xAFWCA-Mj28)<br> |
 | [Collector's Log Locked](https://www.youtube.com/playlist?list=PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O) (8 videos) | [Mr Jeza](https://www.youtube.com/channel/UCyBAceaWGPsGKhcP6HQ93EQ) | [2019-03-30: The Collectors Challenge - The Beginning - Ep1<br>![](https://i.ytimg.com/vi/6NWfa_SiEys/mqdefault.jpg)](https://youtube.com/watch?v=6NWfa_SiEys) | [2020-03-21: The Collector's Challenge - Episode 8 - We be Impin'<br>![](https://i.ytimg.com/vi/pKh_t9CE8lQ/mqdefault.jpg)](https://youtube.com/watch?v=pKh_t9CE8lQ)<br> |
 | [Boss Only](https://www.youtube.com/playlist?list=PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI) (16 videos) | [Link'sOcarina](https://www.youtube.com/channel/UCEFPJ3Qc_0tvKQBYDO-UKvQ) | [2019-01-13: Boss Only Account (Low Level bossing) - #1<br>![](https://i.ytimg.com/vi/jJoXC__Pej4/mqdefault.jpg)](https://youtube.com/watch?v=jJoXC__Pej4) | [2020-06-25: Banks only...Then we fight<br>![](https://i.ytimg.com/vi/E1koiAhT_ME/mqdefault.jpg)](https://youtube.com/watch?v=E1koiAhT_ME)<br> |
+| [One Level Per Episode](https://www.youtube.com/playlist?list=PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc) (51 videos) | [Killoah](https://www.youtube.com/channel/UCVjpr9clKszpXLRdDM8cSdA) | [2019-08-18: One Level Per Episode Ironman - Episode 1<br>![](https://i.ytimg.com/vi/UaHMQONKFYY/mqdefault.jpg)](https://youtube.com/watch?v=UaHMQONKFYY) | [2021-09-16: One Level Per Episode Ironman - Episode 51 (NOW IN HD)<br>![](https://i.ytimg.com/vi/a8p0nj14_8c/mqdefault.jpg)](https://youtube.com/watch?v=a8p0nj14_8c)<br>*Note: 1 later video(s) omitted[^max-videos]* |
 
 ### Item-based restrictions
 
@@ -157,7 +158,7 @@ Jump to:
 
 ## Add a playlist
 
-To add a playlist, edit [`channels.txt`](https://github.com/JakeSteam/osrs-ironmen/blob/main/automation/channels.txt) to include the playlist ID and name:
+To add a playlist, edit [`channels.txt`](https://github.com/JakeSteam/osrs-ironmen/blob/main/automation/playlists.txt) to include the playlist ID and name:
 * Playlist ID can be retrieved from the playlist's URL (everything after `?list=`).
 * Playlist name is used for the first column, shorter is better.
 
