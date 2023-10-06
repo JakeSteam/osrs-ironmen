@@ -9,6 +9,8 @@ Jump to:
 * [Location-based restrictions](#location-based-restrictions)
 * [World-based restrictions](#world-based-restrictions)
 
+<input type="button" value="Toggle video thumbnails" onclick="toggleImages();">
+
 ## Ironmen
 
 dynamic-playlist-data
