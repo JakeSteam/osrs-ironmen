@@ -1,4 +1,3 @@
 function toggleImages() {
-  document.querySelectorAll('img')
-    .forEach(i => i.hidden = !i.hidden);
+    document.body.className = document.body.className == 'hideImages' ? '' : 'hideImages';
 }

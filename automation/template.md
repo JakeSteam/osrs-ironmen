@@ -1,6 +1,11 @@
 There are too many goddamn snowflake accounts, here's a list of all that have YouTube series. At least, those with more than 2 progress videos!
 
-This list updates once a day, feel free to [add any missing playlists](#add-a-playlist). Tap a column's header to sort by that field.
+This list updates once a day, feel free to [add any missing playlists](#add-a-playlist).
+
+## Controls
+
+*  Tap a column's header to sort by that field.
+* <button onclick="toggleImages();">Toggle video thumbnails</button>
 
 Jump to:
 * [Misc restrictions](#misc-restrictions)
@@ -8,8 +13,6 @@ Jump to:
 * [Skill-based restrictions](#skill-based-restrictions)
 * [Location-based restrictions](#location-based-restrictions)
 * [World-based restrictions](#world-based-restrictions)
-
-<input type="button" value="Toggle video thumbnails" onclick="toggleImages();">
 
 ## Ironmen
 

@@ -2,6 +2,6 @@ th {
      cursor: pointer;
 }
 
-img {
+.hideImages img {
      display: none;
 }
