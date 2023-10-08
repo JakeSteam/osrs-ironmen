@@ -99,6 +99,9 @@ PL9SThge_W0vUylhBr1uiUmbkgpYiGGWcS;Chunklocked
 PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked
 PL-jRItRIuS_uQLT9FOqyjQizej6xeG_Rr;Chunklocked
 PLMezKL1uCAyIXoeKBqc3mxCRTQvmRXVdD;Chunklocked
+PLQ7XluWfeuUf9th6AjnQme4thSZqbjsDV;Chunklocked
+PLw7oeJ65g9klnA5SFYj02jFPZAAmorf-q;Chunklocked
+PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (Drop table)
 PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
 PLTZWSudjNG3K8k4UlhLadnsWWxnQON4qz;Chunklocked (Lava)
@@ -111,6 +114,7 @@ PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
 PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
 PLr_v-xlhxNP7_b28L1gmU3ZJ86nOXp-4F;Underground Only
 PLBEJCW-CdkAkH0OmpiDLa-VXRQXk01E-Y;Water Only
+PLl9aa8Hkd7mAweY21TmO-UUK1j0rL85m8;Settlement Locked
 #### Area restrictions
 PLHQc8kx1ZVHh4W6gJhY3wlKsmF0I6VOFf;Ardougne Only
 PL3VGVWq4AiWlp1V1zLIlLqmjIAldkEY4I;Asgarnia Only 

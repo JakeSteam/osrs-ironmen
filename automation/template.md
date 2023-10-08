@@ -37,7 +37,7 @@ dynamic-playlist-data
 
 ## Add a playlist
 
-To add a playlist, edit [`channels.txt`](https://github.com/JakeSteam/osrs-ironmen/blob/main/automation/playlists.txt) to include the playlist ID and name:
+To add a playlist, raise a PR editing [`playlists.txt`](https://github.com/JakeSteam/osrs-ironmen/blob/main/automation/playlists.txt) to include the playlist ID and name:
 * Playlist ID can be retrieved from the playlist's URL (everything after `?list=`).
 * Playlist name is used for the first column, shorter is better.
 
