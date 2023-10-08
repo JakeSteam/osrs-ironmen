@@ -34,8 +34,6 @@ Jump to:
 
 ### Misc restrictions
 
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 
 #### Time restrictions
 
@@ -92,8 +90,6 @@ Jump to:
 
 ### Item restrictions
 
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 
 #### One item only restrictions
 
@@ -127,8 +123,6 @@ Jump to:
 
 ### Skill restrictions
 
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 
 #### Combat restrictions
 
@@ -178,8 +172,6 @@ Jump to:
 
 ### Location restrictions
 
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 
 #### Tile / chunk restrictions
 
@@ -256,8 +248,6 @@ Jump to:
 
 ### World-based restrictions
 
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 | [F2P UIM](https://www.youtube.com/playlist?list=PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut) (4 videos) | [WildMudkip](https://www.youtube.com/channel/UCAk3hMAJJ7oAP2ciRM5tAvQ) | [2020-03-26: Playing OSRS Without a Bank... Or Membership (F2P UIM #1)<br>![](https://i.ytimg.com/vi/DxgW5K7j5xI/mqdefault.jpg)](https://youtube.com/watch?v=DxgW5K7j5xI) | [2020-04-11: The Final Challenge (F2P UIM #4)<br>![](https://i.ytimg.com/vi/9P5Gq6TbHIw/mqdefault.jpg)](https://youtube.com/watch?v=9P5Gq6TbHIw)  |
 | [F2P HCIM](https://www.youtube.com/playlist?list=PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl) (19 videos) | [Vannaka](https://www.youtube.com/channel/UCBFIHC0C2roQllCR9bnFX4g) | [2019-08-17: F2P HCIM #1 - Level 43 Prayer From Scatch!<br>![](https://i.ytimg.com/vi/ANs9MBLr1-A/mqdefault.jpg)](https://youtube.com/watch?v=ANs9MBLr1-A) | [2020-04-22: F2P HCIM #19 - I Finally Got The Drop!<br>![](https://i.ytimg.com/vi/XKEVXH304Z0/mqdefault.jpg)](https://youtube.com/watch?v=XKEVXH304Z0)  |
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk) (8 videos) | [OSRS Curios](https://www.youtube.com/channel/UCbtWonV4O0zFPmb6w9qIMlA) | [2020-06-15: I Locked My UIM to PvP Worlds ONLY (#1)<br>![](https://i.ytimg.com/vi/fRXPUOCaz1w/mqdefault.jpg)](https://youtube.com/watch?v=fRXPUOCaz1w) | [2020-07-20: I Went Hunting on PVP Worlds [As a UIM] (#8)<br>![](https://i.ytimg.com/vi/x4tawflQeFE/mqdefault.jpg)](https://youtube.com/watch?v=x4tawflQeFE)  |
