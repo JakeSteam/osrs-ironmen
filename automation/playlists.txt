@@ -150,9 +150,6 @@ PLkZa1nPRYpmrKOjYCKhCDEO3_u9ErRUqj;Zeah Only
 PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
 ### World-based restrictions
 #### PVP world restrictions
-PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut;F2P UIM
-PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl;F2P HCIM
-#### Other world restrictions
 PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk;PVP Worlds Only
 PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;PVP Worlds Only
 PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL;PVP Worlds Only 
@@ -175,3 +172,6 @@ PLWKajLrInjkDcX3ghbvVL8RVJYVTdWaZP;PVP Worlds Only
 PLLamDxG7jh_TCzqoqWO1TTL3KFqNPrCw3;PVP Worlds Only
 PLOEokQIjn8X11_HWXnwRksIWbXWzJEHST;PVP Worlds Only
 PLR9I-6upQiuoH1fTiTGirZuK-9T3_WePp;PVP Worlds Only (Questing)
+#### Other world restrictions
+PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut;F2P UIM
+PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl;F2P HCIM
