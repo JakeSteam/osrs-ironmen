@@ -97,7 +97,8 @@ PL_lmIUaPhe7bKiLcDeoc_Tr7zJnySwqPt;Tileman (2)
 PLnqb4YV67wexN-NKP4Mtdv8VgR3XXeMVl;Walkman
 PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regionlocked (No returning)
 PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Regionlocked (Wildy)
-PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (Drop table)
+PL7sHUIdcpzZ4SNMw2C_RMj1LJ3h_fteZl;Chunklocked (By combat achievements)
+PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (By drop table)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
 PLcCeHT_qTfsslf2vjasPIId15VNinqKTu;Chunklocked (Barbarian Assault)
 PLKFO5d51DutVqMOL7iaRAQkLrWefLb9zn;Chunklocked (Barbarian Village)
@@ -121,6 +122,7 @@ PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked (Wizard's Tower)
 PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked (Yanille)
 #### Area type restrictions
 PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
+PL7sHUIdcpzZ7r0d_M1Bn8pa-3C7sjyR6P;F2P Areas Only
 PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
 PLR7aZWPOqZeqHc2MsjhFpKBkfUi82mQz8;Guilds Only
 PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
