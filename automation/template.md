@@ -1,6 +1,6 @@
 There are too many goddamn snowflake accounts, here's a list of all that have YouTube series. At least, those with more than 2 progress videos!
 
-This list updates once a day, feel free to [add any missing playlists](#add-a-playlist).
+This list updates once a day[^autoupdate], feel free to [add any missing playlists](#add-a-playlist).
 
 ## Controls
 
@@ -45,4 +45,5 @@ Alternatively, drop an email to [osrs@jakelee.co.uk](mailto:osrs@jakelee.co.uk) 
 
 ### Notes
 
+[^autoupdate]: Uses a modified version of [my YouTube channel script](https://blog.jakelee.co.uk/fetching-youtube-metadata-in-github-actions-and-persisting/).
 [^max-videos]: Note that only 50 playlist videos can be fetched at once via YouTube's API, and pagination is not currently implemented.
