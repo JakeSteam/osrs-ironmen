@@ -24,7 +24,7 @@ Jump to:
     * [Skill order restrictions](#skill-order-restrictions)
     * [Specific skill restrictions](#specific-skill-restrictions)
 * [Location restrictions](#location-restrictions)
-    * [Tile / chunk restrictions](#tile-chunk-restrictions)
+    * [Tile / chunk restrictions](#tile--chunk-restrictions)
     * [Area type restrictions](#area-type-restrictions)
     * [Area restrictions](#area-restrictions)
 * [World-based restrictions](#world-based-restrictions)
