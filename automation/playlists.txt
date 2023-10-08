@@ -10,6 +10,7 @@ PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
 PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collection Log Locked
 PLmEc2FCvTyJi6GdllMFbpw5pFVZCIXNUt;Collection Log Locked
 #### Game feature restrictions
+PL0hkHzVKpBMTjp2LvNH6AVJxHM13t7mKv;One Man Army (Pre-IM)
 PLGCe4YMe1XHLVoM88kNcNKeqDy1itjCKQ;No XP / GP Trading
 PLFYF7kWsCSYaGc76mUU0S16sWKg2JbC87;Vision Restricted 
 PLGCe4YMe1XHLmfVCipeEc1xvdT2DXMico;Bug-abusing HCIM(?)
@@ -18,6 +19,7 @@ PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI;Boss Only
 PL8Oac77n2yGmrLDDoWz--fZz7u7cZxruG;Chests Only
 PLIwkWrTsNUBrTmxATusb46veK_ztFbcC2;F2P No Shops / Quests
 PLMgLWDlqZM_LuvCfPR6mO3CsZv-nznlyl;No Resource / NPC Respawns
+PLQXJAyObYWUmvEx3hCeQASGc3ZkvBg0IJ;No Achievement Diary Tasks
 #### Meta restrictions
 PLGwM0eU-roHtnyamUScpaxDtXLKhNs_Bc;Bad Advice Only
 PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
@@ -26,6 +28,7 @@ PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
 PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
 PL19TrBVZ6YREyWZKkmjeHLb0is7ugf-JD;Bronzeman Mode
 PLfaYojI_alovHQi7Z_LsThv-MRG_VH10q;Generate Task
+PLQXJAyObYWUk6bVcp4jBRYHypQqUpDWy2;Generate Combat Task
 PLWiMc19-qaA0kaesfjtYVWHcrYV5Xg8sE;Hoarders (Treasure Chest Filling)
 PLjitYjlh7oBT_qkZdD19H1AlrQIEjixN5;Monsters In Level Order
 PLB7VVclTy9kRyONOYh4Sh5_jj5VL5eSPB;Monsters In Level Order
@@ -50,6 +53,7 @@ PLMezKL1uCAyIFdyB7N8bNBHb5AmXufIuo;Untradeable Only
 PLPwrJ17OwgPNKcDFysgrVpLFtwwJRy7Hs;Upgrade Gear In Order
 #### Inventory restrictions
 PLoC4TVCd5tGH2s-xkdAJ-mJGml42hDYSR;Inventory only UIM
+PLiW9OCzd372wnN7-DwpErG5F-d2E8lSV6;Inventory only UIM
 PLWiMc19-qaA1IyxRG7VCIjm86JIvTo8BI;1-inventory Slot Only
 ### Skill restrictions
 #### Combat restrictions
@@ -90,22 +94,25 @@ PLLNTajexsGYaw5pcyLOMyrW6w8_IMDG90;Tileman
 PL_lmIUaPhe7aiMbJEd0KhDibN52fw2Iw4;Tileman (1)
 PL_lmIUaPhe7bKiLcDeoc_Tr7zJnySwqPt;Tileman (2)
 PLnqb4YV67wexN-NKP4Mtdv8VgR3XXeMVl;Walkman
-PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regioneer
-PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Chunklocked
-PLapBJ5BERwmJfDxdnBwxQk3Nzh8tnS_5a;Chunklocked
-PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked
-PLOEokQIjn8X3s7u0atO12JvNYR38ICOam;Chunklocked
-PL9SThge_W0vUylhBr1uiUmbkgpYiGGWcS;Chunklocked
-PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked
-PL-jRItRIuS_uQLT9FOqyjQizej6xeG_Rr;Chunklocked
-PLMezKL1uCAyIXoeKBqc3mxCRTQvmRXVdD;Chunklocked
-PLQ7XluWfeuUf9th6AjnQme4thSZqbjsDV;Chunklocked
-PLw7oeJ65g9klnA5SFYj02jFPZAAmorf-q;Chunklocked
+PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regionlocked (No returning)
+PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Regionlocked (Wildy)
+PLapBJ5BERwmJfDxdnBwxQk3Nzh8tnS_5a;Chunklocked (Lumbridge)
+PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked (Wizard's Tower)
+PLOEokQIjn8X3s7u0atO12JvNYR38ICOam;Chunklocked (Baxtorian Falls)
+PL9SThge_W0vUylhBr1uiUmbkgpYiGGWcS;Chunklocked (Falador)
+PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked (Yanille)
+PL-jRItRIuS_uQLT9FOqyjQizej6xeG_Rr;Chunklocked (Catherby)
+PLMezKL1uCAyIXoeKBqc3mxCRTQvmRXVdD;Chunklocked (Lumbridge)
+PLQ7XluWfeuUf9th6AjnQme4thSZqbjsDV;Chunklocked (Gnome Maze)
+PLw7oeJ65g9klnA5SFYj02jFPZAAmorf-q;Chunklocked (Lumbridge)
+PLi6vHBef10lHEEz5txJ5JuvcnVQOQbse8;Chunklocked (CoX)
+PLerMjEiAb32375ySiHstOuGuK4f8ddsZY;Chunklocked (Grand Tree)
+PLoegLVuQNPntoSQ1PxjBUa4AspSbhgeeI;Chunklocked (Varrock)
 PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (Drop table)
 PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
-PLTZWSudjNG3K8k4UlhLadnsWWxnQON4qz;Chunklocked (Lava)
-PL7tNj9KB3sPkZf403p-Me4OnM80z8jtxb;Chunklocked (UIM)
+PLTZWSudjNG3K8k4UlhLadnsWWxnQON4qz;Chunklocked (Lava Maze)
+PL7tNj9KB3sPkZf403p-Me4OnM80z8jtxb;Chunklocked (Lumbridge)
 #### Area type restrictions
 PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
 PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
