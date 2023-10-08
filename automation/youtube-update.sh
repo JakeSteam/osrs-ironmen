@@ -4,7 +4,7 @@ playlists_file="${WORKSPACE}/automation/playlists.txt"
 template_file="${WORKSPACE}/automation/template.md"
 output_file="${WORKSPACE}/README.md"
 
-header_prefix="### "
+header_prefix="#"
 placeholder_text="dynamic-playlist-data"
 temp_output_file="output.json"
 max_results=50
