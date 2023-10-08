@@ -5,6 +5,7 @@ template_file="${WORKSPACE}/automation/template.md"
 output_file="${WORKSPACE}/README.md"
 
 header_prefix="#"
+table_header_prefix="#### "
 placeholder_text="dynamic-playlist-data"
 temp_output_file="output.json"
 max_results=50
@@ -15,7 +16,9 @@ while read -r line; do
     if [[ ${line} == ${header_prefix}* ]]; then
         echo "Adding header ${line}"
         output="${output}\n${line}\n\n"
-        output="${output}| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
+        if [[ ${line} == ${table_header_prefix}* ]]; then
+            output="${output}| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |\n| --- | --- | --- | --- |\n"
+        fi
     else
         IFS=';' read -r playlist_id playlist_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding playlist ${playlist_name} (${playlist_id})"
