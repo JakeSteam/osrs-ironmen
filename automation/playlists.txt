@@ -1,66 +1,68 @@
 ### Misc restrictions
-PLFYF7kWsCSYaGc76mUU0S16sWKg2JbC87;Vision Restricted 
+#### Time restrictions
+PLDSJpYkJoHD-0Keg6Fu7bcVTlbR27T-88;By Release (Quests)
+PLNhIb2tITTHzA8DQlUrI11L5rwRalJQZy;By Release (BIS Items)
+PLR9I-6upQiuql0w2-cdC3AeAtk1xLUxZr;By Release (Content)
+PLYgUyyCI7A9p7OUJVbjdRSbHipu2hF-D9;2005 Only
+#### Unlock order restrictions
+PLkOM4mGZ1gAIaYTMlZ5BHKvLs0JVAVqFq;Combat Achievement Locked
+PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
+PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collection Log Locked
+PLmEc2FCvTyJi6GdllMFbpw5pFVZCIXNUt;Collection Log Locked
+#### Game feature restrictions
 PLGCe4YMe1XHLVoM88kNcNKeqDy1itjCKQ;No XP / GP Trading
-PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
+PLFYF7kWsCSYaGc76mUU0S16sWKg2JbC87;Vision Restricted 
 PLGCe4YMe1XHLmfVCipeEc1xvdT2DXMico;Bug-abusing HCIM(?)
+PL6bQcYjXKI44K8bODV4mndopdVT0gzeRu;Loner UIM (No NPCs)
+PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI;Boss Only
+PL8Oac77n2yGmrLDDoWz--fZz7u7cZxruG;Chests Only
+PLIwkWrTsNUBrTmxATusb46veK_ztFbcC2;F2P No Shops / Quests
+PLMgLWDlqZM_LuvCfPR6mO3CsZv-nznlyl;No Resource / NPC Respawns
+#### Meta restrictions
+PLGwM0eU-roHtnyamUScpaxDtXLKhNs_Bc;Bad Advice Only
+PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
+PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
+#### Other restrictions
+PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
 PL19TrBVZ6YREyWZKkmjeHLb0is7ugf-JD;Bronzeman Mode
-PLDSJpYkJoHD-0Keg6Fu7bcVTlbR27T-88;Quests By Release
-PLNhIb2tITTHzA8DQlUrI11L5rwRalJQZy;BIS By Release
-PLR9I-6upQiuql0w2-cdC3AeAtk1xLUxZr;Content By Release
 PLfaYojI_alovHQi7Z_LsThv-MRG_VH10q;Generate Task
 PLWiMc19-qaA0kaesfjtYVWHcrYV5Xg8sE;Hoarders (Treasure Chest Filling)
 PLjitYjlh7oBT_qkZdD19H1AlrQIEjixN5;Monsters In Level Order
 PLB7VVclTy9kRyONOYh4Sh5_jj5VL5eSPB;Monsters In Level Order
 PLkOM4mGZ1gAKoFIDvLMcGrvoeg8PYSKEF;1000 Only
-PLYgUyyCI7A9p7OUJVbjdRSbHipu2hF-D9;2005 Only
-PLGwM0eU-roHtnyamUScpaxDtXLKhNs_Bc;Bad Advice Only
-PL6bQcYjXKI44K8bODV4mndopdVT0gzeRu;Loner UIM (No NPCs)
-PLkOM4mGZ1gAIaYTMlZ5BHKvLs0JVAVqFq;Combat Achievement Locked
-PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
-PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collection Log Locked
-PLmEc2FCvTyJi6GdllMFbpw5pFVZCIXNUt;Collection Log Locked
-PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI;Boss Only
-PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
 PLHQc8kx1ZVHgTYpM-7XvUzFd39gKiiFU4;All-in-one Snowflakeman
-PL8Oac77n2yGmrLDDoWz--fZz7u7cZxruG;Chests Only
 PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
-PLIwkWrTsNUBrTmxATusb46veK_ztFbcC2;F2P No Shops / Quests
-PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
-PLMgLWDlqZM_LuvCfPR6mO3CsZv-nznlyl;No Resource / NPC Respawns
-### Item-based restrictions
-PLWiMc19-qaA1IyxRG7VCIjm86JIvTo8BI;1-inventory Slot Only
+### Item restrictions
+#### One item only restrictions
 PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
 PLG7_4qT2t12ZB6plUZ0SsQQbc1XNUM8Sb;Clue Scrolls Only
 PLHoC6h2fU6S24h_UxAjGSndCMAfavnzk2;Clue Scrolls Only
 PLQOWWLNuE1KlQ7pHwtv5UHkB8uR9yjKiq;Clue Scrolls Only
 PLmEc2FCvTyJjOsixKQ8QlqLticeJZ9av9;Clue Scrolls Only
 PLO8EVIdTH1M6P4ICYcuigWEh1QM6NFz8l;Implings Only
+#### Excluding item restrictions
 PL8y8_ujzQx5a1e4ixE3B-TbTONAeQoETZ;No Currencies
 PL8df2oSsRWXJrOYl8nhKvX2i8JA0rtzln;Vegan Only
 PLHJ-0E1PlX6howVlq9cBHLxVC3j3MCxyY;Cheap Items Only
 PLkOM4mGZ1gAKxm01I2FQgDd3EMh2HP1aM;Slayer Drop Locked
 PLQLFmTbA8lZ29stIFRc4MJtivxxRWi9cU;No Stat-giving Gear
-PLoC4TVCd5tGH2s-xkdAJ-mJGml42hDYSR;Inventory only UIM
 PLMezKL1uCAyIFdyB7N8bNBHb5AmXufIuo;Untradeable Only
 PLPwrJ17OwgPNKcDFysgrVpLFtwwJRy7Hs;Upgrade Gear In Order
-### Skill-based restrictions
-PLpiYUqDQMBCCmxjAVKB2VfsTFkX3UZTiS;Magic Only
-PL7MCEaWXjXsEO76xTeDOfLBg7Ri6cVK6S;Magic Only
-PLfaYojI_alosZ92-RcRLLM7pT-apGqFqQ;Magic Only
-PLBNesWpqPkIPJJqOwAOw_Kv4SkSMwi8kX;Melee Only
-PLGSwvp5U0qZSSEX8KwPgXPKi8Iq5Nc0fH;99 One At A Time
-PLG7mmWmys_YjIwpd93q6cHmh0nxMLj0UX;99 One At A Time
-PLjvxlnXBpOgkYa5OtXW-mzhpDqVpe71BF;Level 3 UIM
-PLfaYojI_alosjctvmk9DQnPIfan02_Bpn;Level 3 HCIM
+#### Inventory restrictions
+PLoC4TVCd5tGH2s-xkdAJ-mJGml42hDYSR;Inventory only UIM
+PLWiMc19-qaA1IyxRG7VCIjm86JIvTo8BI;1-inventory Slot Only
+### Skill restrictions
+#### Combat restrictions
 PLpiYUqDQMBCAZTrLcGFfmXKsMMZJzuizk;1 Defence HCIM
 PLNB2JOrvYWGlBvlTKxQrdxwOFC0dXHfKr;1 Defence HC UIM (S1)
 PLNB2JOrvYWGnwpeGfxPSDal0fWkv_JTxN;1 Defence HC UIM (S2)
-PLqQYYjuSBhCL1LUcZtjOip1WnoQQ0cXP4;Evenly Levelled UIM
 PLmw72TQLrjFWDviFVgLs84ILDE1SBgzUr;Glass Cannon
 PLmw72TQLrjFUvlH8oya8q3wu2Zl2yHn7U;Glass Cannon
-PLHoC6h2fU6S0SGeg8-q1F8mRDzC5nlEIb;Slayer Only
-PLiETVLquxFqzMMY2OQPhmGHZ9rz4q-jRw;Slayer Only
 PLeHECNrihAzTOE6tt9CpuDwHL7locIRmd;Pure Ironman
+#### 10HP restrictions
+PLjvxlnXBpOgkYa5OtXW-mzhpDqVpe71BF;Level 3 UIM
+PLfaYojI_alosjctvmk9DQnPIfan02_Bpn;Level 3 HCIM
+PLSPPsmv_FXzBpi_lF8sIotgx6ClTUM31V;3 Combat Fire Cape
 PLFcTN8HmSeipIHRfLqBHr4gnClKKLkemT;10HP Ironman
 PLFcTN8HmSeiq5y-UtQFRnDotQaYfbMjIN;10HP Ironman
 PLR9I-6upQiuq3oIr3QRMvXluoxSUPbkOB;10HP Ironman
@@ -68,9 +70,20 @@ PLmw72TQLrjFV83QvWi3RhbL0OAxbQWmLz;10HP Ironman (S1)
 PLmw72TQLrjFVdHk0Uehtb0XvCej6sYLPI;10HP Ironman (S2)
 PLZTTBJe29ue1mFyROm2UK9KGg4Z-Eh3Xl;10HP UIM
 PL8Oac77n2yGlJ_8JHAG4jT2bfIDKUzxwc;10HP UIM
-PLSPPsmv_FXzBpi_lF8sIotgx6ClTUM31V;3 Combat Fire Cape
+#### Skill order restrictions
+PLGSwvp5U0qZSSEX8KwPgXPKi8Iq5Nc0fH;99 One At A Time
+PLG7mmWmys_YjIwpd93q6cHmh0nxMLj0UX;99 One At A Time
+PLqQYYjuSBhCL1LUcZtjOip1WnoQQ0cXP4;Evenly Levelled UIM
 PLR9I-6upQiuqFDsBKNn2SJwXHtyo5_JdP;One Level At A Time
-### Location-based restrictions
+#### Specific skill restrictions
+PLpiYUqDQMBCCmxjAVKB2VfsTFkX3UZTiS;Magic Only
+PL7MCEaWXjXsEO76xTeDOfLBg7Ri6cVK6S;Magic Only
+PLfaYojI_alosZ92-RcRLLM7pT-apGqFqQ;Magic Only
+PLBNesWpqPkIPJJqOwAOw_Kv4SkSMwi8kX;Melee Only
+PLHoC6h2fU6S0SGeg8-q1F8mRDzC5nlEIb;Slayer Only
+PLiETVLquxFqzMMY2OQPhmGHZ9rz4q-jRw;Slayer Only
+### Location restrictions
+#### Tile / chunk restrictions
 PLWiMc19-qaA3uAQXQUcn8c1VR5ZwqVOXl;Tileman
 PLf0LvR7TaAvv7r4qkoC_IcWHM69iyo6bZ;Tileman
 PLLNTajexsGYaw5pcyLOMyrW6w8_IMDG90;Tileman
@@ -90,45 +103,47 @@ PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
 PLTZWSudjNG3K8k4UlhLadnsWWxnQON4qz;Chunklocked (Lava)
 PL7tNj9KB3sPkZf403p-Me4OnM80z8jtxb;Chunklocked (UIM)
-PLIt4qmc5Ihh6pzIdY1KrG8haVFeNDsca_;Troll Only
-PLHQc8kx1ZVHh4W6gJhY3wlKsmF0I6VOFf;Ardougne Only
+#### Area type restrictions
 PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
-PLr_v-xlhxNP7_b28L1gmU3ZJ86nOXp-4F;Underground Only
-PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;Morytania Only
+PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
+PLR7aZWPOqZeqHc2MsjhFpKBkfUi82mQz8;Guilds Only
 PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
+PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
+PLr_v-xlhxNP7_b28L1gmU3ZJ86nOXp-4F;Underground Only
+PLBEJCW-CdkAkH0OmpiDLa-VXRQXk01E-Y;Water Only
+#### Area restrictions
+PLHQc8kx1ZVHh4W6gJhY3wlKsmF0I6VOFf;Ardougne Only
+PL3VGVWq4AiWlp1V1zLIlLqmjIAldkEY4I;Asgarnia Only 
 PLHJ-0E1PlX6ilLJTTq2U8pni0gFBQAi2q;Barrows Only
+PLytFDPzcFY-6NGS0H8D0rNbAFPkLzt0af;Desert Only
+PLzU806ZJA6tE3KT3jazRZauc1gj5YFnPe;Desert Only
+PL5O1BIf4zB9dgfqoWnzIK7w0-tjwoKBvt;Desert Only
+PL4SgbozbDkPlGxUaq6E_t_XBBu2Ng_POx;Desert Only
+PLQLFmTbA8lZ1ad9W5O6CZNVuCS6FCCsOa;Falador Only
+PLHJ-0E1PlX6gvb4sIhHqQ-X-2g1BwZsW0;Fossil Island Only
+PLzU806ZJA6tEcCRvtYSGmdxkZJyIAar34;Fremennik Only
+PLRECHxek1Xg8n5UJAbDnu5SSSuYJJcVd2;Gnome Only
+PLVG_OJNf_JO8xPizOOnWah3gqXVfJ_jBv;God Wars Only
+PLiETVLquxFqxVer_1g-ucyJxH75sOpZl2;Grand Exchange Only
+PLJy1K-xuJmeV8XzWn3uOd2Iej--XPwnS_;Kandarin Only
+PLv1mYl3DmFadCZulb8zPnZVN3N3BoL1cf;Kandarin Only
 PLNB2JOrvYWGmHfRrG4-MKcBQ3BiCZyu8V;Karamja Only
+PLhsEAJsiNQ3aeqfnRLCyR3ZaaAtimaPxc;Lumby Chicken Farm Only
+PLhsEAJsiNQ3YMprz-CHZ_MCMxedsdANc2;Lumby / Draynor Only
+PLsdW9li5Xn39cAwWijgLWguju09KAaI95;Lumbbington Only
+PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;Morytania Only
+PLCTCQ7PeSckLJw2rz3kS0FwCmewIz4UTS;Northern Only
+PLPkixEDRwfWTlTRJMQa8Xf87cxVz9RlBG;Tirannwn Only
+PLIt4qmc5Ihh6pzIdY1KrG8haVFeNDsca_;Troll Only
 PLBdzwavY8Dp50G1Bbp9VJaFrrCroytdXX;Wildy Only
 PLiqzI21bjRf9JZjxkmxTa8rU9PSygrusK;Wildy Only
 PLWyj4HIM187KaAqcAwc6KxeriLYYDu8tJ;Wildy Only
 PLrgoQmpfNPcHYAO8UqItpL96c5r2QgeEa;Wildy Only
 PLkOM4mGZ1gAIZYS-g2ZhaInLdtu4Q3YDs;Wildy Only
-PLzU806ZJA6tEcCRvtYSGmdxkZJyIAar34;Fremennik Only
-PLR7aZWPOqZeqHc2MsjhFpKBkfUi82mQz8;Guilds Only
 PLkOM4mGZ1gALGLuYOLfUdEhSu5MRWqVk0;Wildy Only (F2P)
 PL-FZ8RY7ObmOoeTuJbVm6NeuF7axZcnaB;Wildy Only (F2P)
-PLytFDPzcFY-6NGS0H8D0rNbAFPkLzt0af;Desert Only
-PLzU806ZJA6tE3KT3jazRZauc1gj5YFnPe;Desert Only
-PL5O1BIf4zB9dgfqoWnzIK7w0-tjwoKBvt;Desert Only
-PL4SgbozbDkPlGxUaq6E_t_XBBu2Ng_POx;Desert Only
-PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
-PLHJ-0E1PlX6gvb4sIhHqQ-X-2g1BwZsW0;Fossil Island Only
-PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
-PL3VGVWq4AiWlp1V1zLIlLqmjIAldkEY4I;Asgarnia Only 
-PLQLFmTbA8lZ1ad9W5O6CZNVuCS6FCCsOa;Falador Only
-PLhsEAJsiNQ3aeqfnRLCyR3ZaaAtimaPxc;Lumby Chicken Farm Only
-PLhsEAJsiNQ3YMprz-CHZ_MCMxedsdANc2;Lumby / Draynor Only
-PLsdW9li5Xn39cAwWijgLWguju09KAaI95;Lumbbington Locked
-PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
-PLPkixEDRwfWTlTRJMQa8Xf87cxVz9RlBG;Tirannwn Only
-PLJy1K-xuJmeV8XzWn3uOd2Iej--XPwnS_;Kandarin Only
-PLv1mYl3DmFadCZulb8zPnZVN3N3BoL1cf;Kandarin Only
-PLRECHxek1Xg8n5UJAbDnu5SSSuYJJcVd2;Gnome Only
-PLVG_OJNf_JO8xPizOOnWah3gqXVfJ_jBv;God Wars Only
-PLiETVLquxFqxVer_1g-ucyJxH75sOpZl2;Grand Exchange Only
-PLCTCQ7PeSckLJw2rz3kS0FwCmewIz4UTS;Northern Only
-PLBEJCW-CdkAkH0OmpiDLa-VXRQXk01E-Y;Waterlocked
 PLkZa1nPRYpmrKOjYCKhCDEO3_u9ErRUqj;Zeah Only
+PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
 ### World-based restrictions
 PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut;F2P UIM
 PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl;F2P HCIM

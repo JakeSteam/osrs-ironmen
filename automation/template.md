@@ -9,9 +9,24 @@ This list updates once a day, feel free to [add any missing playlists](#add-a-pl
 
 Jump to:
 * [Misc restrictions](#misc-restrictions)
-* [Item-based restrictions](#item-based-restrictions)
-* [Skill-based restrictions](#skill-based-restrictions)
-* [Location-based restrictions](#location-based-restrictions)
+    * [Time restrictions](#time-restrictions)
+    * [Unlock order restrictions](#unlock-order-restrictions)
+    * [Game feature restrictions](#game-feature-restrictions)
+    * [Meta restrictions](#meta-restrictions)
+    * [Other restrictions](#other-restrictions)
+* [Item restrictions](#item-restrictions)
+    * [One item only restrictions](#one-item-only-restrictions)
+    * [Excluding item restrictions](#excluding-item-restrictions)
+    * [Inventory restrictions](#inventory-restrictions)
+* [Skill restrictions](#skill-restrictions)
+    * [Combat restrictions](#combat-restrictions)
+    * [10HP restrictions](#10hp-restrictions)
+    * [Skill order restrictions](#skill-order-restrictions)
+    * [Specific skill restrictions](#specific-skill-restrictions)
+* [Location restrictions](#location-restrictions)
+    * [Tile / chunk restrictions](#tile-chunk-restrictions)
+    * [Area type restrictions](#area-type-restrictions)
+    * [Area restrictions](#area-restrictions)
 * [World-based restrictions](#world-based-restrictions)
 
 ## Ironmen
