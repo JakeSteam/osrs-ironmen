@@ -35,6 +35,7 @@ PLB7VVclTy9kRyONOYh4Sh5_jj5VL5eSPB;Monsters In Level Order
 PLkOM4mGZ1gAKoFIDvLMcGrvoeg8PYSKEF;1000 Only
 PLHQc8kx1ZVHgTYpM-7XvUzFd39gKiiFU4;All-in-one Snowflakeman
 PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
+PLZwhhKG0e94l6T1tS_0ybfaCIGdZRYPPy;Music Cape
 ### Item restrictions
 #### One item only restrictions
 PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
@@ -96,32 +97,38 @@ PL_lmIUaPhe7bKiLcDeoc_Tr7zJnySwqPt;Tileman (2)
 PLnqb4YV67wexN-NKP4Mtdv8VgR3XXeMVl;Walkman
 PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regionlocked (No returning)
 PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Regionlocked (Wildy)
-PLapBJ5BERwmJfDxdnBwxQk3Nzh8tnS_5a;Chunklocked (Lumbridge)
-PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked (Wizard's Tower)
-PLOEokQIjn8X3s7u0atO12JvNYR38ICOam;Chunklocked (Baxtorian Falls)
-PL9SThge_W0vUylhBr1uiUmbkgpYiGGWcS;Chunklocked (Falador)
-PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked (Yanille)
-PL-jRItRIuS_uQLT9FOqyjQizej6xeG_Rr;Chunklocked (Catherby)
-PLMezKL1uCAyIXoeKBqc3mxCRTQvmRXVdD;Chunklocked (Lumbridge)
-PLQ7XluWfeuUf9th6AjnQme4thSZqbjsDV;Chunklocked (Gnome Maze)
-PLw7oeJ65g9klnA5SFYj02jFPZAAmorf-q;Chunklocked (Lumbridge)
-PLi6vHBef10lHEEz5txJ5JuvcnVQOQbse8;Chunklocked (CoX)
-PLerMjEiAb32375ySiHstOuGuK4f8ddsZY;Chunklocked (Grand Tree)
-PLoegLVuQNPntoSQ1PxjBUa4AspSbhgeeI;Chunklocked (Varrock)
 PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (Drop table)
-PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
+PLcCeHT_qTfsslf2vjasPIId15VNinqKTu;Chunklocked (Barbarian Assault)
+PLKFO5d51DutVqMOL7iaRAQkLrWefLb9zn;Chunklocked (Barbarian Village)
+PLOEokQIjn8X3s7u0atO12JvNYR38ICOam;Chunklocked (Baxtorian Falls)
+PL-jRItRIuS_uQLT9FOqyjQizej6xeG_Rr;Chunklocked (Catherby)
+PLi6vHBef10lHEEz5txJ5JuvcnVQOQbse8;Chunklocked (CoX)
+PLIPuGhlhRTUZXDomgaSeezPXoDJGr3q31;Chunklocked (Entrana)
+PL9SThge_W0vUylhBr1uiUmbkgpYiGGWcS;Chunklocked (Falador)
+PLQ7XluWfeuUf9th6AjnQme4thSZqbjsDV;Chunklocked (Gnome Maze)
+PLerMjEiAb32375ySiHstOuGuK4f8ddsZY;Chunklocked (Grand Tree)
+PLunbYSFhSmo_zuRv36K4oqIVj9tkwYBa0;Chunklocked (Lake Molch)
 PLTZWSudjNG3K8k4UlhLadnsWWxnQON4qz;Chunklocked (Lava Maze)
+PLMezKL1uCAyIXoeKBqc3mxCRTQvmRXVdD;Chunklocked (Lumbridge)
+PLw7oeJ65g9klnA5SFYj02jFPZAAmorf-q;Chunklocked (Lumbridge)
 PL7tNj9KB3sPkZf403p-Me4OnM80z8jtxb;Chunklocked (Lumbridge)
+PLapBJ5BERwmJfDxdnBwxQk3Nzh8tnS_5a;Chunklocked (Lumbridge)
+PLDeBkMwh3gDO0nvTsWNJafdtz37IID1SF;Chunklocked (Lumbridge)
+PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
+PLoegLVuQNPntoSQ1PxjBUa4AspSbhgeeI;Chunklocked (Varrock)
+PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked (Wizard's Tower)
+PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked (Yanille)
 #### Area type restrictions
 PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
 PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
 PLR7aZWPOqZeqHc2MsjhFpKBkfUi82mQz8;Guilds Only
 PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
+PLK6-LoUBmQOqG-6l3dSP2cIJSB1Fk4I32;Mountains Only
 PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
+PLl9aa8Hkd7mAweY21TmO-UUK1j0rL85m8;Settlements Only
 PLr_v-xlhxNP7_b28L1gmU3ZJ86nOXp-4F;Underground Only
 PLBEJCW-CdkAkH0OmpiDLa-VXRQXk01E-Y;Water Only
-PLl9aa8Hkd7mAweY21TmO-UUK1j0rL85m8;Settlement Locked
 #### Area restrictions
 PLHQc8kx1ZVHh4W6gJhY3wlKsmF0I6VOFf;Ardougne Only
 PL3VGVWq4AiWlp1V1zLIlLqmjIAldkEY4I;Asgarnia Only 
