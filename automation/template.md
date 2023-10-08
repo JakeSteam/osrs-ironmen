@@ -28,6 +28,8 @@ Jump to:
     * [Area type restrictions](#area-type-restrictions)
     * [Area restrictions](#area-restrictions)
 * [World-based restrictions](#world-based-restrictions)
+    * [PVP world restrictions](#pvp-world-restrictions)
+    * [Other world restrictions](#other-world-restrictions)
 
 ## Ironmen
 
