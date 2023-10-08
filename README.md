@@ -259,13 +259,6 @@ Jump to:
 
 | Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
 | --- | --- | --- | --- |
-| [F2P UIM](https://www.youtube.com/playlist?list=PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut)<br>(4 videos) | [WildMudkip](https://www.youtube.com/channel/UCAk3hMAJJ7oAP2ciRM5tAvQ) | [2020-03-26: Playing OSRS Without a Bank... Or Membership (F2P UIM #1)<br>![](https://i.ytimg.com/vi/DxgW5K7j5xI/mqdefault.jpg)](https://youtube.com/watch?v=DxgW5K7j5xI) | [2020-04-11: The Final Challenge (F2P UIM #4)<br>![](https://i.ytimg.com/vi/9P5Gq6TbHIw/mqdefault.jpg)](https://youtube.com/watch?v=9P5Gq6TbHIw)  |
-| [F2P HCIM](https://www.youtube.com/playlist?list=PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl)<br>(19 videos) | [Vannaka](https://www.youtube.com/channel/UCBFIHC0C2roQllCR9bnFX4g) | [2019-08-17: F2P HCIM #1 - Level 43 Prayer From Scatch!<br>![](https://i.ytimg.com/vi/ANs9MBLr1-A/mqdefault.jpg)](https://youtube.com/watch?v=ANs9MBLr1-A) | [2020-04-22: F2P HCIM #19 - I Finally Got The Drop!<br>![](https://i.ytimg.com/vi/XKEVXH304Z0/mqdefault.jpg)](https://youtube.com/watch?v=XKEVXH304Z0)  |
-
-#### Other world restrictions
-
-| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
-| --- | --- | --- | --- |
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk)<br>(8 videos) | [OSRS Curios](https://www.youtube.com/channel/UCbtWonV4O0zFPmb6w9qIMlA) | [2020-06-15: I Locked My UIM to PvP Worlds ONLY (#1)<br>![](https://i.ytimg.com/vi/fRXPUOCaz1w/mqdefault.jpg)](https://youtube.com/watch?v=fRXPUOCaz1w) | [2020-07-20: I Went Hunting on PVP Worlds [As a UIM] (#8)<br>![](https://i.ytimg.com/vi/x4tawflQeFE/mqdefault.jpg)](https://youtube.com/watch?v=x4tawflQeFE)  |
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX)<br>(75 videos) | [C Engineer](https://www.youtube.com/channel/UCUNoAjAgVHEHc6jrUr4XuWQ) | [2018-07-02: HCIM Limited to PVP Worlds [100% HCIM]<br>![](https://i.ytimg.com/vi/NEPVAwuJ3BY/mqdefault.jpg)](https://youtube.com/watch?v=NEPVAwuJ3BY) | [2021-07-09: Spying in the Clanchat Where Everyone Wants to Kill Me #9<br>![](https://i.ytimg.com/vi/YOXonVLiMcI/mqdefault.jpg)](https://youtube.com/watch?v=YOXonVLiMcI) <br>*Note: 25 later video(s) omitted[^max-videos]* |
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL)<br>(23 videos) | [Zach S](https://www.youtube.com/channel/UC9sz-1EtbtRBxjojGfApuXw) | [2020-05-16: PVP HCIM Quest Completed [1% HCIM]<br>![](https://i.ytimg.com/vi/UCgVYAKtKcQ/mqdefault.jpg)](https://youtube.com/watch?v=UCgVYAKtKcQ) | [2022-11-02: It took 3 years but C Engineer Finally Killed my PVP HARDCORE<br>![](https://i.ytimg.com/vi/eHeEB-BiXFk/mqdefault.jpg)](https://youtube.com/watch?v=eHeEB-BiXFk)  |
@@ -288,6 +281,13 @@ Jump to:
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PLLamDxG7jh_TCzqoqWO1TTL3KFqNPrCw3)<br>(13 videos) | [poisonedpotion](https://www.youtube.com/channel/UCE3GX8LXZBu3tludlpwqOfw) | [2020-03-14: High Risk HCIM: The UNrestricted Account (S1) (#1)<br>![](https://i.ytimg.com/vi/qRPw9xUip94/mqdefault.jpg)](https://youtube.com/watch?v=qRPw9xUip94) | [2021-03-25: When Wildy Wakes - High Risk HCIM (S1) (#13)<br>![](https://i.ytimg.com/vi/xhSTbSO6q2g/mqdefault.jpg)](https://youtube.com/watch?v=xhSTbSO6q2g)  |
 | [PVP Worlds Only](https://www.youtube.com/playlist?list=PLOEokQIjn8X11_HWXnwRksIWbXWzJEHST)<br>(3 videos) | [notmeta osrs](https://www.youtube.com/channel/UCbNjB7cVb3ySNSA4vBjpE1g) | [2022-12-21: HCIM But I'm Locked to Deadman Worlds<br>![](https://i.ytimg.com/vi/fyF7SyjMu7s/mqdefault.jpg)](https://youtube.com/watch?v=fyF7SyjMu7s) | [2023-01-07: HCIM but I'm Locked to the Deadliest World in Runescape (#3)<br>![](https://i.ytimg.com/vi/QTZOraNBYR4/mqdefault.jpg)](https://youtube.com/watch?v=QTZOraNBYR4)  |
 | [PVP Worlds Only (Questing)](https://www.youtube.com/playlist?list=PLR9I-6upQiuoH1fTiTGirZuK-9T3_WePp)<br>(3 videos) | [Slayermusiq1](https://www.youtube.com/channel/UCTFm_FIRJJ1ppTGPrPawX8A) | [2020-09-20: [PVP Quest 1] The experiment<br>![](https://i.ytimg.com/vi/tcFySwQcCqQ/mqdefault.jpg)](https://youtube.com/watch?v=tcFySwQcCqQ) | [2020-10-04: [PVP Quest 3] Unforeseen combo chanced me<br>![](https://i.ytimg.com/vi/Zh4Y4yUcCC4/mqdefault.jpg)](https://youtube.com/watch?v=Zh4Y4yUcCC4)  |
+
+#### Other world restrictions
+
+| Series ↕ | Creator ↕ | First video ↕ | Latest video ↕ |
+| --- | --- | --- | --- |
+| [F2P UIM](https://www.youtube.com/playlist?list=PL4Ct8chrkvPiqkPPL2d1h2BAf40u7hIut)<br>(4 videos) | [WildMudkip](https://www.youtube.com/channel/UCAk3hMAJJ7oAP2ciRM5tAvQ) | [2020-03-26: Playing OSRS Without a Bank... Or Membership (F2P UIM #1)<br>![](https://i.ytimg.com/vi/DxgW5K7j5xI/mqdefault.jpg)](https://youtube.com/watch?v=DxgW5K7j5xI) | [2020-04-11: The Final Challenge (F2P UIM #4)<br>![](https://i.ytimg.com/vi/9P5Gq6TbHIw/mqdefault.jpg)](https://youtube.com/watch?v=9P5Gq6TbHIw)  |
+| [F2P HCIM](https://www.youtube.com/playlist?list=PLkOM4mGZ1gAK7TuDtkQouS2PhS-ZxepTl)<br>(19 videos) | [Vannaka](https://www.youtube.com/channel/UCBFIHC0C2roQllCR9bnFX4g) | [2019-08-17: F2P HCIM #1 - Level 43 Prayer From Scatch!<br>![](https://i.ytimg.com/vi/ANs9MBLr1-A/mqdefault.jpg)](https://youtube.com/watch?v=ANs9MBLr1-A) | [2020-04-22: F2P HCIM #19 - I Finally Got The Drop!<br>![](https://i.ytimg.com/vi/XKEVXH304Z0/mqdefault.jpg)](https://youtube.com/watch?v=XKEVXH304Z0)  |
 
 
 ## Add a playlist
