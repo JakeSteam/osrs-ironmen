@@ -36,6 +36,7 @@ PLkOM4mGZ1gAKoFIDvLMcGrvoeg8PYSKEF;1000 Only
 PLHQc8kx1ZVHgTYpM-7XvUzFd39gKiiFU4;All-in-one Snowflakeman
 PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
 PLZwhhKG0e94l6T1tS_0ybfaCIGdZRYPPy;Music Cape
+PLb2eEIxY5NNhlEJ5vbz8VRUI9KnScoMYf;Unlock Order Only
 ### Item restrictions
 #### One item only restrictions
 PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
