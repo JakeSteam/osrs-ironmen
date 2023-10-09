@@ -24,6 +24,7 @@ PLQXJAyObYWUmvEx3hCeQASGc3ZkvBg0IJ;No Achievement Diary Tasks
 PLGwM0eU-roHtnyamUScpaxDtXLKhNs_Bc;Bad Advice Only
 PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
 PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
+PLZ1r83HxniSXUcxA2uRNHNWqyMDDRtUtZ;No Guides / Lore / Plugins
 #### Other restrictions
 PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
 PL19TrBVZ6YREyWZKkmjeHLb0is7ugf-JD;Bronzeman Mode
