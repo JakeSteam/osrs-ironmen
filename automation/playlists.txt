@@ -28,6 +28,7 @@ PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
 PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
 PL19TrBVZ6YREyWZKkmjeHLb0is7ugf-JD;Bronzeman Mode
 PLfaYojI_alovHQi7Z_LsThv-MRG_VH10q;Generate Task
+PL3VGVWq4AiWkJWq-Khsk2WbNuDzXWdjvA;Generate Task
 PLQXJAyObYWUk6bVcp4jBRYHypQqUpDWy2;Generate Combat Task
 PLWiMc19-qaA0kaesfjtYVWHcrYV5Xg8sE;Hoarders (Treasure Chest Filling)
 PLjitYjlh7oBT_qkZdD19H1AlrQIEjixN5;Monsters In Level Order
@@ -50,6 +51,7 @@ PL8y8_ujzQx5a1e4ixE3B-TbTONAeQoETZ;No Currencies
 PL8df2oSsRWXJrOYl8nhKvX2i8JA0rtzln;Vegan Only
 PLHJ-0E1PlX6howVlq9cBHLxVC3j3MCxyY;Cheap Items Only
 PLkOM4mGZ1gAKxm01I2FQgDd3EMh2HP1aM;Slayer Drop Locked
+PL3VGVWq4AiWnB_pb2VYxqEOb05dFiSs9F;Monster Drops Only (& Rarest)
 PLQLFmTbA8lZ29stIFRc4MJtivxxRWi9cU;No Stat-giving Gear
 PLMezKL1uCAyIFdyB7N8bNBHb5AmXufIuo;Untradeable Only
 PLPwrJ17OwgPNKcDFysgrVpLFtwwJRy7Hs;Upgrade Gear In Order
@@ -100,6 +102,7 @@ PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regionlocked (No returning)
 PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Regionlocked (Wildy)
 PL7sHUIdcpzZ4SNMw2C_RMj1LJ3h_fteZl;Chunklocked (By combat achievements)
 PLl9aa8Hkd7mBq9f2BUNMsSJJkz_EI7plk;Chunklocked (By drop table)
+PL3VGVWq4AiWk1GtG6az4rgLrJttjMVget;Chunklocked (As GIM)
 PLWOzHlKyf91_0MOaVKOG4cvz-QavdXNYS;Chunklocked (Altar) 
 PLcCeHT_qTfsslf2vjasPIId15VNinqKTu;Chunklocked (Barbarian Assault)
 PLKFO5d51DutVqMOL7iaRAQkLrWefLb9zn;Chunklocked (Barbarian Village)
