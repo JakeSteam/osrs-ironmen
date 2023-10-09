@@ -1,6 +1,6 @@
-There are too many goddamn snowflake accounts, here's a list of all that have YouTube series. At least, those with more than 2 progress videos!
+There are too many goddamn snowflake ironman accounts to keep track of, here's a list of all that have a YouTube series. At least, those with more than 2 progress videos!
 
-This list updates once a day[^autoupdate], feel free to [add any missing playlists](#add-a-playlist).
+This list updates once a day[^autoupdate], feel free to [add any missing playlists](#add-a-playlist) or [read the announcement post](https://blog.jakelee.co.uk/osrs-ironmen-list-of-youtube-series/).
 
 ## Controls
 
@@ -41,7 +41,7 @@ To add a playlist, raise a PR editing [`playlists.txt`](https://github.com/JakeS
 * Playlist ID can be retrieved from the playlist's URL (everything after `?list=`).
 * Playlist name is used for the first column, shorter is better.
 
-Alternatively, drop an email to [osrs@jakelee.co.uk](mailto:osrs@jakelee.co.uk) and it'll get added.
+Alternatively, drop an email to [osrs@jakelee.co.uk](mailto:osrs@jakelee.co.uk) and I'll add it manually.
 
 ### Notes
 
