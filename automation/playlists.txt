@@ -121,6 +121,7 @@ PLP232kf__RRcJmlnuqYfAjKydOGo1Zntj;Chunklocked (POH)
 PLoegLVuQNPntoSQ1PxjBUa4AspSbhgeeI;Chunklocked (Varrock)
 PLOEokQIjn8X1l9Dx-jE8vgU1mjND3bIgD;Chunklocked (Wizard's Tower)
 PLsdW9li5Xn39ZSCw5n6nQqHTMu0F2NY9u;Chunklocked (Yanille)
+PLY8DA5IRWslYxRVCS_ALE-yP13DMlf2Ra;Chunklocked (Canifis)
 #### Area type restrictions
 PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
 PL7sHUIdcpzZ7r0d_M1Bn8pa-3C7sjyR6P;F2P Areas Only
