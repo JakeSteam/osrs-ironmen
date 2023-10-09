@@ -36,6 +36,7 @@ PLB7VVclTy9kRyONOYh4Sh5_jj5VL5eSPB;Monsters In Level Order
 PLkOM4mGZ1gAKoFIDvLMcGrvoeg8PYSKEF;1000 Only
 PLHQc8kx1ZVHgTYpM-7XvUzFd39gKiiFU4;All-in-one Snowflakeman
 PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
+PLz-nPwYJF01-zQKguyuvKAojO1lFLbGyJ;MonkManMode Tilelocked
 PLZwhhKG0e94l6T1tS_0ybfaCIGdZRYPPy;Music Cape
 PLb2eEIxY5NNhlEJ5vbz8VRUI9KnScoMYf;Unlock Order Only
 ### Item restrictions
