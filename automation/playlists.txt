@@ -171,6 +171,7 @@ PLkOM4mGZ1gALGLuYOLfUdEhSu5MRWqVk0;Wildy Only (F2P)
 PL-FZ8RY7ObmOoeTuJbVm6NeuF7axZcnaB;Wildy Only (F2P)
 PLkZa1nPRYpmrKOjYCKhCDEO3_u9ErRUqj;Zeah Only
 PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
+PLKYcSFp5BnyJElbitWWylT52Drt7YLMl2;Zeah Only
 ### World-based restrictions
 #### PVP world restrictions
 PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk;PVP Worlds Only
