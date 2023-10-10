@@ -67,7 +67,7 @@ while read -r line; do
                 latest_video_disclaimer="<br>*Note: ${missed_videos} later video(s) omitted[^max-videos]*"
             fi
 
-            echo "Added ${playlist_title} by ${channel_title}: ${video_count} videos"
+            echo "Added ${playlist_name} by ${channel_title}: ${video_count} videos"
             output="${output}| ${emoji}[${playlist_name}](https://www.youtube.com/playlist?list=${playlist_id})<br>(${video_count} videos) | [${channel_title}](https://www.youtube.com/channel/${channel_id}) | [${first_video_date:0:10}: ${first_video_title}<br>![](${first_video_img})](https://youtube.com/watch?v=${first_video_id}) | [${latest_video_date:0:10}: ${latest_video_title}<br>![](${latest_video_img})](https://youtube.com/watch?v=${latest_video_id}) ${latest_video_disclaimer} |\n"
         else
             echo "Failed! Bad response received: $(<${temp_output_file})"
