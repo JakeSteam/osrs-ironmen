@@ -17,6 +17,7 @@ PLGCe4YMe1XHLmfVCipeEc1xvdT2DXMico;Bug-abusing HCIM(?)
 PL6bQcYjXKI44K8bODV4mndopdVT0gzeRu;Loner UIM (No NPCs)
 PLapBJ5BERwmIMF8C9ziV33AiMELt90UZI;Boss Only
 PL8Oac77n2yGmrLDDoWz--fZz7u7cZxruG;Chests Only
+PLkjoyn2JFsv8k4lAF_i0BscxSLJasADNJ;Chests Only
 PLO8EVIdTH1M6dALk6o7e-ZxlXefXqe4Cn;Shooting Stars Only (F2P)
 PLO8EVIdTH1M6CcnAYkK1S39E7z4uP1ZCE;Shooting Stars Only (P2P)
 PLIwkWrTsNUBrTmxATusb46veK_ztFbcC2;F2P No Shops / Quests
@@ -136,10 +137,12 @@ PLr_v-xlhxNP7XZMg7DKV2oH1UhS_aQtJy;Castles Only
 PL7sHUIdcpzZ7r0d_M1Bn8pa-3C7sjyR6P;F2P Areas Only
 PLytFDPzcFY-5rBLDGv2smtb9dLZVVzs5Q;General Store Only
 PLR7aZWPOqZeqHc2MsjhFpKBkfUi82mQz8;Guilds Only
+PLkjoyn2JFsv-G3lo1LbjeipKAet7Oq1sZ;Hosidius Only
 PLUqtQKDJpiIS3HmPkQrISp4SncN7zq69Y;Minigame Only
 PLO8EVIdTH1M7C9F4u9YQYYovLD_PC7-fA;Minigame Only
 PLK6-LoUBmQOqG-6l3dSP2cIJSB1Fk4I32;Mountains Only
 PLVhozQRgaLBXP66dl7upq4SbwMlnPLCOq;Pathways Only
+PLkjoyn2JFsv8ZeS8eBYsnX9VOTwr40hSn;Revenant Cave Only
 PLl9aa8Hkd7mAweY21TmO-UUK1j0rL85m8;Settlements Only
 PLr_v-xlhxNP7_b28L1gmU3ZJ86nOXp-4F;Underground Only
 PLBEJCW-CdkAkH0OmpiDLa-VXRQXk01E-Y;Water Only
