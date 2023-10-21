@@ -44,6 +44,7 @@ PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
 PLz-nPwYJF01-zQKguyuvKAojO1lFLbGyJ;MonkManMode Tilelocked
 PLZwhhKG0e94l6T1tS_0ybfaCIGdZRYPPy;Music Cape
 PLb2eEIxY5NNhlEJ5vbz8VRUI9KnScoMYf;Unlock Order Only
+PLJehzJTKsWV_tQitjT86BIQIfgYk2Ytdh;RuneLocke 
 ### Item restrictions
 #### One item only restrictions
 PLGCe4YMe1XHIG5uqatzVV29dqlVdRAR-c;Raw Potatoes Only
