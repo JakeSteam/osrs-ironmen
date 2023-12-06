@@ -10,7 +10,6 @@ PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
 PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collection Log Locked
 PLmEc2FCvTyJi6GdllMFbpw5pFVZCIXNUt;Collection Log Locked
 #### Game feature restrictions
-PL0hkHzVKpBMTjp2LvNH6AVJxHM13t7mKv;One Man Army (Pre-IM)
 PLGCe4YMe1XHLVoM88kNcNKeqDy1itjCKQ;No XP / GP Trading
 PLFYF7kWsCSYaGc76mUU0S16sWKg2JbC87;Vision Restricted 
 PLGCe4YMe1XHLmfVCipeEc1xvdT2DXMico;Bug-abusing HCIM(?)
