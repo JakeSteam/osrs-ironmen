@@ -183,7 +183,6 @@ PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
 PLKYcSFp5BnyJElbitWWylT52Drt7YLMl2;Zeah Only
 ### World-based restrictions
 #### PVP world restrictions
-PLxxnV48pJEjpvQtMKBdSjRzNZ_vGWLBAA;PvP HC Tileman
 PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk;PVP Worlds Only
 PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;PVP Worlds Only
 PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL;PVP Worlds Only 
