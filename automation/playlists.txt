@@ -99,6 +99,7 @@ PLiETVLquxFqzMMY2OQPhmGHZ9rz4q-jRw;Slayer Only
 ### Location restrictions
 #### Tile / chunk restrictions
 PLWiMc19-qaA3uAQXQUcn8c1VR5ZwqVOXl;Tileman
+PLxxnV48pJEjpvQtMKBdSjRzNZ_vGWLBAA;PvP HC Tileman
 PLf0LvR7TaAvv7r4qkoC_IcWHM69iyo6bZ;Tileman
 PLLNTajexsGYaw5pcyLOMyrW6w8_IMDG90;Tileman
 PL_lmIUaPhe7aiMbJEd0KhDibN52fw2Iw4;Tileman (1)
@@ -182,6 +183,7 @@ PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
 PLKYcSFp5BnyJElbitWWylT52Drt7YLMl2;Zeah Only
 ### World-based restrictions
 #### PVP world restrictions
+PLxxnV48pJEjpvQtMKBdSjRzNZ_vGWLBAA;PvP HC Tileman
 PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk;PVP Worlds Only
 PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;PVP Worlds Only
 PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL;PVP Worlds Only 
