@@ -6,6 +6,7 @@ This list updates once a day[^autoupdate], feel free to [add any missing playlis
 
 *  Tap a column's header to sort by that field.
 * <button onclick="toggleImages();">Toggle video thumbnails</button>
+* 🥰 = I've seen all of this series, and loved it!
 
 Jump to:
 * [Misc restrictions](#misc-restrictions)
