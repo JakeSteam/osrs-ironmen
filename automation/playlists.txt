@@ -1,12 +1,11 @@
 ### Misc restrictions
 #### Time restrictions
-PLDSJpYkJoHD-0Keg6Fu7bcVTlbR27T-88;By Release (Quests)
+PLDSJpYkJoHD-0Keg6Fu7bcVTlbR27T-88;🥰 By Release (Quests)
 PLNhIb2tITTHzA8DQlUrI11L5rwRalJQZy;By Release (BIS Items)
 PLR9I-6upQiuql0w2-cdC3AeAtk1xLUxZr;By Release (Content)
 PLYgUyyCI7A9p7OUJVbjdRSbHipu2hF-D9;2005 Only
 #### Unlock order restrictions
 PLkOM4mGZ1gAIaYTMlZ5BHKvLs0JVAVqFq;Combat Achievement Locked
-PLi99l-SSK44CpGDsSQH8WfD0YBC0iQl8i;Task Locked
 PLxrEwEY0nxXeE3YMHr_vntF3W2ipDFv5O;Collection Log Locked
 PLmEc2FCvTyJi6GdllMFbpw5pFVZCIXNUt;Collection Log Locked
 #### Game feature restrictions
@@ -25,9 +24,9 @@ PLQXJAyObYWUmvEx3hCeQASGc3ZkvBg0IJ;No Achievement Diary Tasks
 PLe3EhbVG0FjmUDNV5av45TbxfLtUXI8k7;One Interaction Only (Bonfire Man)
 #### Meta restrictions
 PLGwM0eU-roHtnyamUScpaxDtXLKhNs_Bc;Bad Advice Only
-PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;One Level Per Episode
+PL179Wy-9kflT88-bsTwFPOXrtk4eYutsc;🥰 One Level Per Episode
 PL2qxC9AXAmsqvjtZnt5qV0fLQlVmkzAIr;No Guides / Lore
-PLZ1r83HxniSXUcxA2uRNHNWqyMDDRtUtZ;No Guides / Lore / Plugins
+PLZ1r83HxniSXUcxA2uRNHNWqyMDDRtUtZ;🥰 No Guides / Plugins / Wiki
 #### Other restrictions
 PL1Ktpo14mwzDQvyexGPq_riNCdtFDpJqA;Vampire HCIM
 PL19TrBVZ6YREyWZKkmjeHLb0is7ugf-JD;Bronzeman Mode
@@ -57,7 +56,7 @@ PL8y8_ujzQx5a1e4ixE3B-TbTONAeQoETZ;No Currencies
 PL8df2oSsRWXJrOYl8nhKvX2i8JA0rtzln;Vegan Only
 PLHJ-0E1PlX6howVlq9cBHLxVC3j3MCxyY;Cheap Items Only
 PLkOM4mGZ1gAKxm01I2FQgDd3EMh2HP1aM;Slayer Drop Locked
-PL3VGVWq4AiWnB_pb2VYxqEOb05dFiSs9F;Monster Drops Only (& Rarest)
+PL3VGVWq4AiWnB_pb2VYxqEOb05dFiSs9F;(Rarest) Monster Drops Only
 PLQLFmTbA8lZ29stIFRc4MJtivxxRWi9cU;No Stat-giving Gear
 PLMezKL1uCAyIFdyB7N8bNBHb5AmXufIuo;Untradeable Only
 PLPwrJ17OwgPNKcDFysgrVpLFtwwJRy7Hs;Upgrade Gear In Order
@@ -75,8 +74,7 @@ PLmw72TQLrjFUvlH8oya8q3wu2Zl2yHn7U;Glass Cannon
 PLeHECNrihAzTOE6tt9CpuDwHL7locIRmd;Pure Ironman
 #### 10HP restrictions
 PLjvxlnXBpOgkYa5OtXW-mzhpDqVpe71BF;Level 3 UIM
-PLfaYojI_alosjctvmk9DQnPIfan02_Bpn;Level 3 HCIM
-PLSPPsmv_FXzBpi_lF8sIotgx6ClTUM31V;3 Combat Fire Cape
+PLSPPsmv_FXzBpi_lF8sIotgx6ClTUM31V;🥰 3 Combat Fire Cape
 PLFcTN8HmSeipIHRfLqBHr4gnClKKLkemT;10HP Ironman
 PLFcTN8HmSeiq5y-UtQFRnDotQaYfbMjIN;10HP Ironman
 PLR9I-6upQiuq3oIr3QRMvXluoxSUPbkOB;10HP Ironman
@@ -98,7 +96,7 @@ PLHoC6h2fU6S0SGeg8-q1F8mRDzC5nlEIb;Slayer Only
 PLiETVLquxFqzMMY2OQPhmGHZ9rz4q-jRw;Slayer Only
 ### Location restrictions
 #### Tile / chunk restrictions
-PLWiMc19-qaA3uAQXQUcn8c1VR5ZwqVOXl;Tileman
+PLWiMc19-qaA3uAQXQUcn8c1VR5ZwqVOXl;🥰 Tileman
 PLxxnV48pJEjpvQtMKBdSjRzNZ_vGWLBAA;PvP HC Tileman
 PLf0LvR7TaAvv7r4qkoC_IcWHM69iyo6bZ;Tileman
 PLLNTajexsGYaw5pcyLOMyrW6w8_IMDG90;Tileman
@@ -168,7 +166,7 @@ PLNB2JOrvYWGmHfRrG4-MKcBQ3BiCZyu8V;Karamja Only
 PLhsEAJsiNQ3aeqfnRLCyR3ZaaAtimaPxc;Lumby Chicken Farm Only
 PLhsEAJsiNQ3YMprz-CHZ_MCMxedsdANc2;Lumby / Draynor Only
 PLsdW9li5Xn39cAwWijgLWguju09KAaI95;Lumbbington Only
-PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;Morytania Only
+PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a;🥰 Morytania Only
 PLCTCQ7PeSckLJw2rz3kS0FwCmewIz4UTS;Northern Only
 PLPkixEDRwfWTlTRJMQa8Xf87cxVz9RlBG;Tirannwn Only
 PLIt4qmc5Ihh6pzIdY1KrG8haVFeNDsca_;Troll Only
@@ -183,8 +181,8 @@ PLeY9GX_KIAYitBJqD_zdVIa5bzdzf46nH;Zeah Only
 PLKYcSFp5BnyJElbitWWylT52Drt7YLMl2;Zeah Only
 ### World-based restrictions
 #### PVP world restrictions
+PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;🥰 PVP Worlds Only
 PL-jBk9mpQj4RxXeR6WlchlUHAlQ1u-aEk;PVP Worlds Only
-PLc3zjHsUIn61z5STb0GSGXXsyc8NPKoaX;PVP Worlds Only
 PLn8CNW9PRKYdW9Eq-GHNnjQGCZO0JDkuL;PVP Worlds Only 
 PLY-yfrsQ8zmhx6wV-gUxw48ltkVI1vnBl;PVP Worlds Only
 PLXs64j-sWfOQudBtJWFQWmraXf8tPaJrc;PVP Worlds Only
