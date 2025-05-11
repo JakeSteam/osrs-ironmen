@@ -37,7 +37,6 @@ PLWiMc19-qaA0kaesfjtYVWHcrYV5Xg8sE;Hoarders (Treasure Chest Filling)
 PLjitYjlh7oBT_qkZdD19H1AlrQIEjixN5;Monsters In Level Order
 PLB7VVclTy9kRyONOYh4Sh5_jj5VL5eSPB;Monsters In Level Order
 PLkOM4mGZ1gAKoFIDvLMcGrvoeg8PYSKEF;1000 Only
-PLHQc8kx1ZVHgTYpM-7XvUzFd39gKiiFU4;All-in-one Snowflakeman
 PLr_v-xlhxNP5ENDbS_b-OPyzqrsZelkLl;MonkManMode
 PLz-nPwYJF01-zQKguyuvKAojO1lFLbGyJ;MonkManMode Tilelocked
 PLZwhhKG0e94l6T1tS_0ybfaCIGdZRYPPy;Music Cape
@@ -102,7 +101,6 @@ PLf0LvR7TaAvv7r4qkoC_IcWHM69iyo6bZ;Tileman
 PLLNTajexsGYaw5pcyLOMyrW6w8_IMDG90;Tileman
 PL_lmIUaPhe7aiMbJEd0KhDibN52fw2Iw4;Tileman (1)
 PL_lmIUaPhe7bKiLcDeoc_Tr7zJnySwqPt;Tileman (2)
-PLnqb4YV67wexN-NKP4Mtdv8VgR3XXeMVl;Walkman
 PLc3zjHsUIn61m5uANAYGVpnxHFyLkDKPr;Regionlocked (No returning)
 PLmp8z18d1XBDCm2zj0BekuJu6u7rYPuxH;Regionlocked (Wildy)
 PL7sHUIdcpzZ4SNMw2C_RMj1LJ3h_fteZl;Chunklocked (By combat achievements)
